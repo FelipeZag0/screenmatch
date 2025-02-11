@@ -1,12 +1,25 @@
-# Java: consumindo uma API, gravando arquivos e lidando com erros
+### **📌 Java ScreenMatch - Consumindo API**  
 
-Projeto desenvolvido no quarto curso da formação Java da Alura
+Este projeto foi desenvolvido durante o curso **"Java: consumindo API, gravando arquivos e lidando com erros"** da Alura. O objetivo foi aprender a consumir APIs em Java, manipular dados no formato JSON e armazenar informações em arquivos locais.  
 
+---
 
-## 🔨 Objetivos do projeto
+## 🚀 **Tecnologias e Conceitos Utilizados**  
+- Consumo de APIs HTTP em Java  
+- Conversão de JSON para objetos Java e vice-versa com **Gson**  
+- Manipulação de arquivos usando o pacote **java.io**  
+- Tratamento de exceções e manipulação de erros  
 
-- Aprender a consumir uma API HTTP em Java;
-- Entender como receber e converter dados no formato JSON; 
-- Utilizar a biblioteca externa GSON para fazer serialização e desserialização de dados;
-- Lidar com erros e tratar exceções;
-- Conhecer o pacote java.io para manipulação de arquivos.
+---
+
+## 📚 **Executando o Projeto**  
+1. Clone o repositório:  
+   ```sh
+   git clone https://github.com/seu-usuario/screenmatch.git
+   ```
+2. Importe o projeto no **IntelliJ IDEA** ou outro IDE de sua preferência.  
+3. Certifique-se de que a biblioteca **Gson** está configurada no projeto.  
+4. Execute a classe principal para testar o consumo da API.  
+
+---
+
