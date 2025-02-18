@@ -1,7 +1,3 @@
-Claro! Aqui está um modelo de README.md para o seu projeto **ScreenMatch** com base na sua formação em POO em Java. O objetivo é criar um README que destaque o que você aprendeu e como esse projeto demonstra suas habilidades de forma impactante.
-
----
-
 # ScreenMatch - Sistema de Cadastro de Filmes (POO em Java)
 
 O **ScreenMatch** é um projeto desenvolvido como parte da formação "Aprenda a Programar em Java com Orientação a Objetos" da **Alura**. A aplicação tem como objetivo gerenciar um sistema simples de cadastro e exibição de filmes, utilizando conceitos fundamentais de **Orientação a Objetos (POO)**, como **classes**, **herança**, **polimorfismo**, **interfaces**, entre outros.
